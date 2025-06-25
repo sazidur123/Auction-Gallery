@@ -7,13 +7,15 @@ A responsive web-based Auction Gallery built using **HTML**, **CSS**, and **Java
 ## 🌐 Live Demo
 
 👉 [Live Site](https://auction-gallery-seven.netlify.app/)  
-👉 [Repository](https://github.com/your-username/auction-gallery)
+👉 [Repository](https://github.com/sazidur123/auction-gallery.git)
 
 ---
 
 ## 📸 Preview
 
-![Auction Gallery Preview](screenshot.png)
+![Auction Gallery Preview](https://github.com/sazidur123/Auction-Gallery/blob/main/public/Screenshot%20from%202025-06-25%2012-26-46.png
+https://github.com/sazidur123/Auction-Gallery/blob/main/public/Screenshot%20from%202025-06-25%2012-27-02.png
+)
 
 ---
 
@@ -47,5 +49,5 @@ A responsive web-based Auction Gallery built using **HTML**, **CSS**, and **Java
 ### 📁 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/auction-gallery.git
+git clone https://github.com/sazidur123/auction-gallery.git
 cd auction-gallery
