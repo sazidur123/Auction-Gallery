@@ -1,12 +1,51 @@
-# React + Vite
+# 🖼️ Auction Gallery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive web-based Auction Gallery built using **HTML**, **CSS**, and **JavaScript**, where users can browse and interact with dynamic auction items in real time.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+👉 [Live Site](https://your-live-link.com)  
+👉 [Repository](https://github.com/your-username/auction-gallery)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+
+![Auction Gallery Preview](screenshot.png)
+
+---
+
+## 🚀 Technologies Used
+
+- HTML5
+- CSS3 (Flexbox, Grid)
+- JavaScript (DOM Manipulation)
+
+---
+
+## ✨ Features
+
+- Fully responsive design
+- Gallery layout with bidding-like animation
+- Dynamic filtering/sorting of auction items
+- Countdown timer for active auctions
+- Light/dark mode toggle (optional)
+
+---
+
+## 📦 Dependencies
+
+> No external dependencies — pure HTML, CSS, and JS.  
+> *(You may list any library like AOS, GSAP, etc. if used.)*
+
+---
+
+## 🛠️ Getting Started
+
+### 📁 Clone the repository
+
+```bash
+git clone https://github.com/your-username/auction-gallery.git
+cd auction-gallery
