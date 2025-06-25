@@ -6,7 +6,7 @@ A responsive web-based Auction Gallery built using **HTML**, **CSS**, and **Java
 
 ## 🌐 Live Demo
 
-👉 [Live Site](https://your-live-link.com)  
+👉 [Live Site](https://auction-gallery-seven.netlify.app/)  
 👉 [Repository](https://github.com/your-username/auction-gallery)
 
 ---
